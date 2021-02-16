@@ -647,3 +647,9 @@
 632,NLUNARIZER,N-Lunarizer,N-Lunarizers,8,0,"A machine to fuse Necrozma, which needs light, and Lunala.",5,0,6,
 633,MEGARING,Mega Ring,Mega Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve.",0,0,6,
 634,RUNNINGSHOES,Running Shoes,Running Shoes,8,0,"A pair of shoes that compels you to be more active.",0,0,6,
+#--------------------------------
+635,SURFITEM,Raft,Rafts,8,0,"A raft that can carry anyone safely over bodies of water.",2,0,6,
+636,ROCKSMASHITEM,Pickaxe,Pickaxes,8,0,"A sturdy and strong tool that can split rocks in two.",2,0,6,
+637,FLYITEM,Panflute,Panflutes,8,0,"A mysterious instrument that can whisk you away to other lands.",2,0,6,
+638,STRENGTHITEM,Heavy Glove,Heavy Gloves,8,0,"A pair of gloves that grants the user incredible strength.",2,0,6,
+639,CUTITEM,Machete,Machetes,8,0,"A tool that can cleave dense shrubbery.",2,0,6,
