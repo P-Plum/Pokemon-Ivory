@@ -39,4 +39,4 @@
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
 # Route One (8) - Marigold Town (85)
-8,East,21,85,West,0
+8,East,16,85,West,0
