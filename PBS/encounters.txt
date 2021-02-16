@@ -54,18 +54,18 @@ LandNight
 008 # Route One
 25,10,10
 Land
-    SENTRET,5,7
-    BUNNELBY,5,7
-    SENTRET,4,6
-    STARLY,4,6
-    STARLY,4,6
-    VIBUPA,4,6
-    BUNNELBY,4,6
-    VIBUPA,4,6
-    STARLY,4,6
-    TEDDIURSA,5,7
-    STARLY,5,7
-    TEDDIURSA,4,6
+    SENTRET,2,4
+    BUNNELBY,2,4
+    SENTRET,3,4
+    STARLY,2,4
+    STARLY,3,4
+    VIBUPA,2,4
+    BUNNELBY,2,4
+    VIBUPA,3,4
+    STARLY,2,4
+    TEDDIURSA,3,4
+    STARLY,3,4
+    TEDDIURSA,3,4
 #-------------------------------
 021 # Route 2
 25,10,10
