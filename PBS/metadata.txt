@@ -426,3 +426,10 @@ ShowArea = true
 [091]
 # Pokecenter
 HealingSpot = 85,40,15
+#-------------------------------
+[093]
+# Sprig Ranch
+BattleBack = meadow
+Bicycle = true
+Outdoor = true
+ShowArea = true

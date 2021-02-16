@@ -118,8 +118,8 @@ Pokemon = BLASTOISE,63
 #-------------------------------
 [YOUNGSTER2,Percy]
 LoseText = "My poor Bunnelby...!"
-Pokemon = BUNNELBY,5
-Pokemon = BUNNELBY,5
+Pokemon = BUNNELBY,3
+Pokemon = BUNNELBY,3
 #-------------------------------
 [RIVALMAVIS,Mavis]
 LoseText = "Ah... What an exhilarating battle!"
@@ -147,3 +147,11 @@ Pokemon = TEPIG,5
 [RIVALCYRIL,Cyril,2]
 LoseText = "Darn! I thought I would have won for sure!"
 Pokemon = OSHAWOTT,5
+#-------------------------------
+[CAMPER,Elijah]
+LoseText = "Gah! The horror of defeat!"
+Pokemon = VIBUPA,6
+#-------------------------------
+[COWGIRL,Birdie]
+LoseText = "Oh... I didn't expect to lose!"
+Pokemon = DORORU,5

@@ -520,3 +520,19 @@ Land
     CUBONE,11,14
     CUBONE,11,14
     CUBONE,11,14
+#-------------------------------
+093 # Sprig Ranch
+25,10,10
+Land
+    DORORU,3,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
+    BULBASAUR,5
