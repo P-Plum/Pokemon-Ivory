@@ -155,3 +155,8 @@ Pokemon = VIBUPA,6
 [COWGIRL,Birdie]
 LoseText = "Oh... I didn't expect to lose!"
 Pokemon = DORORU,5
+#-------------------------------
+[PICNICKER,Poppy]
+LoseText = "How are your Pokémon so powerful!?"
+Pokemon = MAREEP,4
+Pokemon = MAREEP,4

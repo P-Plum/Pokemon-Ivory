@@ -35,5 +35,7 @@ Name = Tiall
 Filename = mapRegion1.png
 Point = 13,16,Here,,,,,
 #-------------------------------
-[3]
+[2]
 Name = Remia
+Filename = mapRegion1.png
+Point = 13,16,Here,,,,,
