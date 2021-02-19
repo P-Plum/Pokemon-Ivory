@@ -653,3 +653,5 @@
 637,FLYITEM,Panflute,Panflutes,8,0,"A mysterious instrument that can whisk you away to other lands.",2,0,6,
 638,STRENGTHITEM,Heavy Glove,Heavy Gloves,8,0,"A pair of gloves that grants the user incredible strength.",2,0,6,
 639,CUTITEM,Machete,Machetes,8,0,"A tool that can cleave dense shrubbery.",2,0,6,
+#--------------------------------
+640,BARNKEY,Barn Key,Barn Keys,8,0,"An old, shiny key that unlocks the door of Sprig Ranch's barn.",0,0,6,

@@ -150,13 +150,38 @@ Pokemon = OSHAWOTT,5
 #-------------------------------
 [CAMPER,Elijah]
 LoseText = "Gah! The horror of defeat!"
-Pokemon = VIBUPA,6
+Pokemon = VIBUPA,7
 #-------------------------------
 [COWGIRL,Birdie]
 LoseText = "Oh... I didn't expect to lose!"
-Pokemon = DORORU,5
+Pokemon = DORORU,7
 #-------------------------------
 [PICNICKER,Poppy]
 LoseText = "How are your Pokémon so powerful!?"
-Pokemon = MAREEP,4
-Pokemon = MAREEP,4
+Pokemon = MAREEP,6
+Pokemon = MAREEP,6
+#-------------------------------
+[RANCHER,Barrett]
+LoseText = "The ways of battlin' are a chore to learn!"
+Pokemon = SKIDDO,7
+Pokemon = MUMUU,7
+#-------------------------------
+[COWGIRL,Annie]
+LoseText = "My Pokémon don't haf'ta listen to you!"
+Pokemon = MUMUU,8
+#-------------------------------
+[RANCHER,Huck]
+LoseText = "Argh, yet another brat defeats my team!"
+Pokemon = MAREEP,7
+Pokemon = SKIDDO,7
+#-------------------------------
+[POKEMONBREEDER_M2,Grant]
+LoseText = "Were my Pokémon not cute enough!?"
+Pokemon = LILLIPUP,7
+Pokemon = DANDIMINI,7
+#-------------------------------
+[BUGCATCHER,Will]
+LoseText = "I was so caught up in being lost, I forgot how to win!"
+Pokemon = VIBUPA,5
+Pokemon = CUTIEFLY,5
+#-------------------------------
